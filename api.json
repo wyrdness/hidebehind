@@ -1,10 +1,8 @@
 {
-  "category": "CRYPTID",
-
   "meta": {
     "version": "1.0.0",
     "schema_version": "1.0.0",
-    "last_updated": "2026-01-14",
+    "last_updated": "2026-02-13",
     "repository": "https://github.com/wyrdness/hidebehind",
     "maintainers": [
       {
@@ -18,251 +16,111 @@
       "content": "CC-BY-4.0"
     }
   },
-
   "phenomenon": {
     "id": "hidebehind",
     "name": "Hidebehind",
     "aliases": [],
     "category": "CRYPTID",
-    "subcategory": "Fearsome Critter",
+    "subcategory": "Lumberjack Tall Tale",
     "tags": [
-      "fearsome-critter",
-      "lumberjack-folklore",
-      "north-america",
-      "stalker",
-      "never-seen",
-      "american-folklore"
+      "folklore",
+      "mythology"
     ],
-    "status": "folklore",
+    "status": "documented",
     "description": {
-      "summary": "A creature from American lumberjack folklore that always hides behind trees or objects, never seen directly. Said to stalk lumberjacks and always stay behind them, moving when they move.",
-      "full": "The Hidebehind is a fearsome critter from American lumberjack folklore, notable for being impossible to see directly. According to the tall tales, it always positions itself behind the nearest tree or object, perpetually staying out of view. When a lumberjack turns around, it instantly moves to stay behind them. This creature was used to explain the disappearances of lumberjacks who wandered into the woods alone and the paranoid feeling of being watched in the forest. It served as both entertainment for lumber camps and a cautionary tale for inexperienced workers (greenhorns) about the dangers of wandering off alone."
+      "summary": "The Hidebehind is a fearsome critter from American lumberjack folklore, notable for being impossible to see directly.",
+      "full": "The Hidebehind is a fearsome critter from American lumberjack folklore, notable for being impossible to see directly. According to the tall tales, it always positions itself behind the nearest tree or object, perpetually staying out of view. When a lumberjack turns around, it instantly moves to stay behind them. This creature was used to explain the disappearances of lumberjacks who wandered into the woods alone and the paranoid feeling of being watched in the forest. It served as both entertainment for lumber camps and a cautionary tale for inexperienced workers (greenhorns) about the dangers of wandering off alone. The Hidebehind is a humorous tall tale, never intended to be taken seriously, representing the tradition of occupational folklore in dangerous professions."
     },
     "etymology": {
-      "origin": "American lumberjack folklore, circa late 1800s to early 1900s",
-      "meaning": "Named for its defining characteristic: it always hides behind trees, objects, or the observer",
-      "first_use": "Late 19th century"
+      "origin": "Unknown",
+      "meaning": "To be documented",
+      "first_use": "Unknown"
     }
   },
-
   "classification": {
     "taxonomy": {
       "category": "CRYPTID",
-      "type": "Fearsome Critter",
-      "subtype": "Lumberjack Tall Tale",
-      "variant": "American Folklore"
+      "type": "Lumberjack Tall Tale",
+      "subtype": "Unknown",
+      "variant": "Unknown"
     },
-    "related_phenomena": [
-      {
-        "id": "axehandle-hound",
-        "name": "Axehandle Hound",
-        "relationship": "fellow_fearsome_critter",
-        "description": "Another lumberjack tall tale creature"
-      },
-      {
-        "id": "splintercat",
-        "name": "Splintercat",
-        "relationship": "fellow_fearsome_critter",
-        "description": "Fellow fearsome critter from lumber camps"
-      },
-      {
-        "id": "hoopsnake",
-        "name": "Hoopsnake",
-        "relationship": "fellow_fearsome_critter",
-        "description": "American frontier tall tale creature"
-      }
-    ]
+    "related_phenomena": []
   },
-
   "characteristics": {
     "physical": {
-      "features": [
-        {
-          "feature": "Appearance",
-          "description": "Unknown - never seen directly (hence the name). Described various ways in different tales",
-          "frequency": "always"
-        },
-        {
-          "feature": "Concealment",
-          "description": "Perfectly concealed behind trees, rocks, or any available object",
-          "frequency": "always"
-        }
-      ],
-      "morphology": "Completely unknown due to its nature. Some tales describe it as bear-like, others as humanoid, but all agree it cannot be observed."
+      "features": [],
+      "morphology": "See README.md for detailed physical description"
     },
-    "abilities": [
-      {
-        "ability": "Perfect concealment",
-        "description": "Always positions itself directly behind observer or nearest object",
-        "frequency": "always",
-        "evidence_level": "folklore"
-      },
-      {
-        "ability": "Instantaneous movement",
-        "description": "Moves instantly to stay behind observer when they turn around",
-        "frequency": "always",
-        "evidence_level": "folklore"
-      },
-      {
-        "ability": "Stalking",
-        "description": "Follows lumberjacks through the forest without being seen",
-        "frequency": "common",
-        "evidence_level": "folklore"
-      },
-      {
-        "ability": "Attacks from behind",
-        "description": "Said to attack lone lumberjacks, explaining disappearances",
-        "frequency": "occasional",
-        "evidence_level": "folklore"
-      }
-    ],
+    "abilities": [],
     "behavior": {
-      "activity_period": "any time",
-      "disposition": "hostile",
-      "social_structure": "solitary",
-      "habitat_preference": [
-        "dense forest",
-        "logging areas",
-        "anywhere with trees"
-      ],
-      "diet": "Unknown (implied to attack lumberjacks)",
-      "patterns": [
-        "Always stays behind observer",
-        "Moves when observer moves",
-        "Never allows direct observation",
-        "Targets lone wanderers"
-      ]
+      "activity_period": "unknown",
+      "disposition": "unknown",
+      "habitat_preference": []
     }
   },
-
   "distribution": {
     "range": {
-      "description": "American lumberjack folklore, primarily from lumber camps of the northern United States and Canada during the late 1800s and early 1900s.",
-      "continents": ["North America"],
-      "countries": ["United States", "Canada"],
-      "regions": [
-        "Great Lakes region",
-        "Pacific Northwest",
-        "Northern lumber camps",
-        "Wherever tall tales were told"
-      ]
+      "description": "Unknown",
+      "continents": [],
+      "countries": [],
+      "regions": []
     },
+    "hotspots": [],
     "temporal": {
       "first_recorded": {
-        "date": "Late 1800s",
+        "date": "Unknown",
         "circa": true,
-        "source": "American lumberjack oral tradition"
-      },
-      "peak_activity_periods": [
-        {
-          "period": "1880s-1930s",
-          "description": "Golden age of lumberjack folklore and fearsome critters"
-        }
-      ]
+        "source": "Traditional folklore"
+      }
     }
   },
-
   "history": {
     "origins": {
-      "cultural_roots": "American lumberjack folklore tradition. Created as entertainment in lumber camps and as cautionary tales for inexperienced workers (greenhorns).",
-      "earliest_accounts": "Late 19th century oral traditions from lumber camps",
-      "folklore_connections": "Part of the broader 'fearsome critters' tradition of American frontier humor"
+      "cultural_roots": "Unknown",
+      "earliest_accounts": "See README.md for historical details",
+      "folklore_connections": "Unknown"
     },
-    "timeline": [
-      {
-        "date": "1880s-1900s",
-        "event": "Hidebehind tales spread through lumber camps",
-        "significance": "Creature becomes standard part of lumberjack folklore",
-        "source": "Oral tradition"
-      },
-      {
-        "date": "1910s-1930s",
-        "event": "Written documentation begins",
-        "significance": "Fearsome critters recorded in books and collections",
-        "source": "Folklore collections"
-      },
-      {
-        "date": "2016",
-        "event": "Featured in Fantastic Beasts franchise",
-        "significance": "Introduced to modern popular culture",
-        "source": "Fantastic Beasts and Where to Find Them film"
-      }
-    ],
-    "modern_era": "The Hidebehind has seen renewed interest through its inclusion in the Fantastic Beasts film franchise and continued appreciation of American folklore. It remains a memorable example of lumberjack humor and tall tale tradition."
+    "timeline": []
   },
-
+  "sightings": {
+    "statistics": {
+      "total_documented": 0,
+      "verified": 0,
+      "disputed": 0,
+      "debunked": 0
+    },
+    "notable": [],
+    "database_path": "./sightings/"
+  },
+  "evidence": {
+    "physical": [],
+    "photographic": [],
+    "video": [],
+    "audio": [],
+    "trace": []
+  },
+  "theories": {
+    "paranormal": [],
+    "scientific": [],
+    "skeptical": []
+  },
   "cultural": {
     "folklore": {
-      "traditions": [
-        "Lumberjack tall tales",
-        "Campfire stories",
-        "Greenhorn hazing"
-      ],
-      "stories": [
-        "Explanations for missing lumberjacks",
-        "Tales of the paranoid feeling of being watched in forests",
-        "Warnings against wandering alone"
-      ],
-      "beliefs": "Never taken seriously; understood as humorous tall tale and cautionary fiction"
-    },
-    "purpose": {
-      "entertainment": "Told around lumber camp fires for amusement",
-      "hazing": "Used to frighten greenhorns (inexperienced lumberjacks)",
-      "safety": "Discouraged workers from wandering into dangerous forest areas alone",
-      "explanation": "Provided humorous explanation for genuine dangers (getting lost, wildlife, accidents)"
+      "traditions": [],
+      "stories": [],
+      "beliefs": "See README.md for cultural context"
     },
     "popular_culture": {
-      "literature": [
-        "Various fearsome critter compilations",
-        "American folklore collections"
-      ],
-      "film_tv": [
-        "Fantastic Beasts and Where to Find Them (2016)",
-        "Fantastic Beasts: The Crimes of Grindelwald (2018)"
-      ],
-      "other": [
-        "Referenced in American folklore studies",
-        "Example of occupational folklore"
-      ]
+      "literature": [],
+      "film_tv": [],
+      "games": [],
+      "other": []
     }
   },
-
-  "theories": {
-    "folklore_analysis": [
-      {
-        "name": "Occupational Folklore",
-        "description": "Hidebehind represents classic occupational folklore - stories created by and for workers in dangerous professions",
-        "evidence_cited": ["Similar traditions in mining, sailing, other dangerous occupations"]
-      },
-      {
-        "name": "Psychological Projection",
-        "description": "Embodies the real paranoia and fear of being watched in isolated, dangerous wilderness",
-        "evidence_cited": ["Universal human experience of feeling watched in forests"]
-      },
-      {
-        "name": "Safety Mechanism",
-        "description": "Humorous way to reinforce genuine safety rules about not wandering alone",
-        "evidence_cited": ["Many fearsome critters served similar cautionary purposes"]
-      }
-    ]
+  "research": {
+    "researchers": [],
+    "organizations": [],
+    "ongoing_studies": "None documented"
   },
-
-  "sources": [
-    {
-      "id": "cox-1910",
-      "type": "book",
-      "title": "Fearsome Creatures of the Lumberwoods",
-      "authors": ["William T. Cox"],
-      "publication": "Judd & Detweiler",
-      "date": "1910"
-    },
-    {
-      "id": "tryon-1939",
-      "type": "book",
-      "title": "Fearsome Critters",
-      "authors": ["Henry H. Tryon"],
-      "publication": "Idlewild Press",
-      "date": "1939"
-    }
-  ]
+  "sources": []
 }
