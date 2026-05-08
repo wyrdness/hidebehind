@@ -1,200 +1,145 @@
 # Hidebehind
 
-> *"It's always right behind you... but you'll never see it."*
+> A fearsome critter from American lumberjack folklore that always hides behind the nearest object, making it impossible to observe directly; used to explain unexplained disappearances of loggers in the deep woods.
 
-[![API Version](https://img.shields.io/badge/api-v1.0.0-blue)]()
-[![Last Updated](https://img.shields.io/badge/updated-2026--01--14-green)]()
-[![Status](https://img.shields.io/badge/status-folklore-lightgrey)]()
+[![API Version](https://img.shields.io/badge/api-v1.1.0-blue)]() [![Last Updated](https://img.shields.io/badge/updated-2026-05-07-green)]() [![Sightings](https://img.shields.io/badge/sightings-0-orange)]() ![Status](https://img.shields.io/badge/status-documented-blue)
 
 ---
-
 ## Quick Reference
 
 | Property | Value |
-|----------|-------|
+|---|---|
 | **ID** | `hidebehind` |
-| **Category** | CRYPTID (Fearsome Critter) |
-| **Classification** | Lumberjack Tall Tale |
-| **First Recorded** | Late 1800s |
-| **Primary Region** | North American lumber camps |
-| **Status** | Folklore / Tall Tale |
+| **Category** | CRYPTID |
+| **Subcategory** | Fearsome critter (lumberjack folklore) |
+| **First recorded** | 1939-01-01 |
+| **Primary range** | Reported throughout the lumber-camp belt of North America: the upper Midwest (Michigan, Wisconsin, Minnesota), the Pacific Northwest, New England, and adjacent parts of Canada |
+| **Status** | documented |
 
 ---
-
 ## Overview
 
-The Hidebehind is a fearsome critter from American lumberjack folklore, notable for being impossible to see directly. According to the tall tales, it always positions itself behind the nearest tree or object, perpetually staying out of view. When a lumberjack turns around, it instantly moves to stay behind them.
-
-This creature was used to explain the disappearances of lumberjacks who wandered into the woods alone and the paranoid feeling of being watched in the forest. It served as both entertainment for lumber camps and a cautionary tale for inexperienced workers (greenhorns) about the dangers of wandering off alone.
-
-The Hidebehind is a humorous tall tale, never intended to be taken seriously, representing the tradition of occupational folklore in dangerous professions.
+The hidebehind is a creature from the 'fearsome critters' tradition of late-19th- and early-20th-century North American lumber camps. By definition impossible to see — the moment a person turns to look, the hidebehind darts behind the nearest tree, stump, or stone — it serves both as occupational humour and as a mock-folkloric explanation for loggers who walked into the woods alone and never came back. According to the published tales, the creature is nocturnal, preys on lumberjacks, subsists chiefly on the intestines of its victims, and has a strong aversion to alcohol, which is therefore considered an effective repellent. The story is documented most prominently in Henry H. Tryon's 1939 collection Fearsome Critters and in Walker D. Wyman's 1978 Mythical Creatures of the USA and Canada. The hidebehind belongs to a broader corpus of fearsome critters — including the agropelter, hodag, hugag, hoopsnake, splintercat, squonk, sidehill gouger, and wampus cat — invented or elaborated in lumber camps as initiation pranks for greenhorns and as set-pieces of campfire storytelling.
 
 ---
+## Names & Aliases
 
-## Etymology & Names
+| Name | Origin | Meaning |
+|---|---|---|
+| Hide-behind | North American lumber camps |  |
+| Behinder | Appalachian variants |  |
 
-### Primary Name
-- **Hidebehind** — Named for its defining characteristic: it always hides behind trees, objects, or the observer, making direct observation impossible.
+## Etymology
 
----
-
-## Classification
-
-### Taxonomy
-```
-Category: CRYPTID
-├── Type: Fearsome Critter
-├── Subtype: Lumberjack Tall Tale
-└── Variant: American Folklore
-```
-
-### Related Phenomena
-
-| Phenomenon | Relationship | Description |
-|------------|--------------|-------------|
-| [Axehandle Hound](/axehandle-hound) | Fellow fearsome critter | Another lumberjack tall tale creature |
-| [Splintercat](/splintercat) | Fellow fearsome critter | Flies headfirst into trees |
-| [Hoopsnake](/hoopsnake) | Fellow fearsome critter | Snake that rolls in a hoop |
+- **Origin**: American English, lumberjack camp slang of the late 19th to early 20th century, from the creature's defining behaviour of hiding behind objects.
+- **Meaning**: Literal compound: a thing that hides behind.
+- **First use**: Documented in lumberjack tall-tale traditions; appears in Henry H. Tryon's Fearsome Critters (1939).
 
 ---
+## Related Phenomena
 
-## Characteristics
-
-### Physical Description
-
-| Attribute | Description |
-|-----------|-------------|
-| **Appearance** | Unknown - never seen directly |
-| **Concealment** | Perfectly hidden behind trees/objects |
-| **Actual Form** | Varies by tale; some say bear-like, others humanoid |
-
-**Note**: The entire premise is that the Hidebehind cannot be observed, so no consistent physical description exists.
-
-### Reported Abilities
-
-| Ability | Description | Evidence Level |
-|---------|-------------|----------------|
-| Perfect concealment | Always positions itself behind observer or nearest object | Folklore |
-| Instantaneous movement | Moves instantly to stay behind observer when they turn | Folklore |
-| Stalking | Follows lumberjacks without being seen | Folklore |
-| Attacks from behind | Said to attack lone lumberjacks | Folklore |
-
-### Behavioral Patterns
-
-- **Activity Period**: Any time
-- **Disposition**: Hostile (in tales)
-- **Social Structure**: Solitary
-- **Habitat Preference**: Dense forests, logging areas, anywhere with trees
-- **Hunting Method**: Stalks from behind, attacks when victim is alone
+- [Agropelter](../agropelter/) — _similar_: Fearsome critter that hurls branches at passing lumberjacks
+- [Splintercat](../splintercat/) — _similar_: Fearsome critter said to shatter trees by ramming them
+- [Wampus cat](../wampus-cat/) — _similar_: Elusive feline cryptid of Appalachian and lumber-camp folklore
+- [Squonk](../squonk/) — _similar_: Self-pitying fearsome critter said to dissolve into tears when cornered
+- [Hodag](../hodag/) — _similar_: Wisconsin fearsome critter associated with lumber-camp tall tales
 
 ---
+## Physical Description
 
-## Cultural Significance
+- **Coloration**: unspecified, said to be invisible to direct observation
+- **Morphology**: Never described in detail because, by the rules of the tale, it cannot be observed. Some accounts describe a tall, gaunt, hairy biped; others leave the form unstated.
 
-### Lumberjack Folklore
+### Features
 
-The Hidebehind served multiple purposes in lumber camp culture:
+| Feature | Description | Frequency |
+|---|---|---|
+| Inability to be seen directly | Always positions itself behind the nearest tree, stump, rock, or other object; vanishes from view the instant a witness turns toward it | always |
+| Nocturnal predator | Operates by night and is described as a stalker of solitary loggers | common |
+| Aversion to alcohol | According to Tryon, alcohol is a sufficient repellent — a self-deprecating joke about lumberjack drinking habits | common |
 
-1. **Entertainment**: Told around campfires for amusement
-2. **Hazing**: Used to frighten greenhorns (inexperienced lumberjacks)
-3. **Safety**: Discouraged workers from wandering into dangerous areas alone
-4. **Explanation**: Humorous explanation for genuine dangers (getting lost, wildlife, accidents)
+## Reported Abilities
 
-### Fearsome Critters Tradition
+| Ability | Description | Frequency | Evidence |
+|---|---|---|---|
+| Perpetual concealment | Moves to remain behind any nearby object faster than the witness can turn | always | folklore |
+| Stealth predation | Stalks lone lumberjacks and ambushes them, dragging them away to its lair | common | folklore |
+| Selective diet | Said to eat chiefly the intestines of its victims | occasional | folklore |
 
-The Hidebehind is part of the broader "fearsome critters" tradition - tall tales created by American lumberjacks in the late 1800s and early 1900s. These creatures were:
-- Never meant to be believed
-- Used for entertainment and hazing
-- Often explained natural phenomena or reinforced safety rules
-- Examples of occupational folklore
+## Behavior
 
-### Modern Culture
-
-**Film/TV**:
-- *Fantastic Beasts and Where to Find Them* (2016)
-- *Fantastic Beasts: The Crimes of Grindelwald* (2018)
-
-The creature gained renewed attention through the Fantastic Beasts franchise, introducing it to modern audiences as part of American magical folklore.
-
----
-
-## Folklore Analysis
-
-### Occupational Folklore
-The Hidebehind represents classic occupational folklore - stories created by and for workers in dangerous professions. Similar traditions exist in mining, sailing, and other hazardous occupations.
-
-### Psychological Projection
-The creature embodies the real paranoia and fear of being watched in isolated, dangerous wilderness. It gives form to the universal human experience of feeling unseen eyes in the forest.
-
-### Safety Mechanism
-Like many fearsome critters, the Hidebehind served a practical purpose: it was a humorous way to reinforce genuine safety rules about not wandering alone in dangerous logging areas.
+- **Activity**: nocturnal
+- **Disposition**: aggressive
+- **Social structure**: solitary
+- **Habitat**: dense coniferous forest, north American lumber camps, deep woodland with abundant cover
+- **Diet**: Reportedly carnivorous, with a particular fondness for the intestines of human victims (per Tryon, 1939).
 
 ---
+## Distribution
 
+Reported throughout the lumber-camp belt of North America: the upper Midwest (Michigan, Wisconsin, Minnesota), the Pacific Northwest, New England, and adjacent parts of Canada.
+
+
+---
 ## Historical Timeline
 
 | Date | Event | Significance |
-|------|-------|--------------|
-| 1880s-1900s | Hidebehind tales spread through lumber camps | Becomes standard part of lumberjack folklore |
-| 1910s-1930s | Written documentation begins | Fearsome critters recorded in folklore collections |
-| 2016 | Featured in Fantastic Beasts franchise | Introduced to modern popular culture |
+|---|---|---|
+| 1939-01-01 | Henry H. Tryon publishes Fearsome Critters (Idlewild Press, Cornwall, NY), with an entry on the hidebehind | Establishes the modern canonical description of the creature |
+| 1978-01-01 | Walker D. Wyman publishes Mythical Creatures of the USA and Canada (University of Wisconsin – River Falls Press) | Reintroduces the hidebehind to mid-20th-century academic folklore study |
+
+## Evidence
+
+### Documentary
+
+| Name | Date | Description | Status |
+|---|---|---|---|
+| Tryon (1939) Fearsome Critters entry | 1939 | Print description of the hidebehind in Henry H. Tryon's Fearsome Critters, including its hiding behaviour, predation on lumberjacks, and aversion to alcohol. | unverified |
 
 ---
+## Theories & Explanations
 
-## Status: Folklore / Tall Tale
+### Skeptical
 
-⚠️ **Important Note**: The Hidebehind is a **humorous tall tale**, not a serious cryptid claim. It was created as:
-- Entertainment for lumberjacks
-- A way to haze inexperienced workers
-- A cautionary tale about safety
-- Part of American frontier humor tradition
+**Tall-tale and occupational folklore** _(Henry H. Tryon, Walker D. Wyman, American folklore scholars)_
 
-No one ever seriously claimed to have encountered a Hidebehind. It's an obvious impossibility (a creature that's always perfectly hidden behind you), which was part of the humor.
+The hidebehind is a humorous occupational legend invented and elaborated in lumber camps to entertain workers, haze new recruits, and provide a mock explanation for genuine workplace deaths in the dangerous logging trade.
 
----
 
-## API Reference
+## Popular Culture
 
-Machine-readable data is available in [`api.json`](api.json).
+**Literature**: Fearsome Critters — Henry H. Tryon (1939); Mythical Creatures of the USA and Canada — Walker D. Wyman (1978)
 
-### Data Access
-
-```javascript
-// Using WyrdnessAPI
-const wyrd = new WyrdnessAPI();
-const hidebehind = await wyrd.getPhenomenon('hidebehind');
-```
-
-### Direct Access
-
-```
-Raw JSON: https://raw.githubusercontent.com/wyrdness/hidebehind/main/api.json
-```
+**Other**: Recurring entry in modern cryptid bestiaries and online folklore compilations
 
 ---
+## Research
 
-## Sources & References
+### Researchers
 
-See [SOURCES.md](SOURCES.md) for complete bibliography.
+| Name | Affiliation | Contribution | Period |
+|---|---|---|---|
+| Henry H. Tryon | Idlewild Press | Compiled Fearsome Critters (1939), the canonical printed source for the hidebehind | 1930s |
+| Walker D. Wyman | University of Wisconsin – River Falls | Folklorist who collected and republished hidebehind tales in Mythical Creatures of the USA and Canada (1978) | 1970s |
 
-### Primary Sources
-
-- Cox, W.T. (1910). *Fearsome Creatures of the Lumberwoods*. Judd & Detweiler.
-- Tryon, H.H. (1939). *Fearsome Critters*. Idlewild Press.
+None; treated as documented folklore.
 
 ---
+## Sources
 
+See [SOURCES.md](SOURCES.md) for the complete bibliography.
+
+
+## How to Report a Sighting
+
+1. **GitHub Issue**: [Submit Sighting Report](../../issues/new?template=sighting_report.yml)
+2. Provide date, location, witnesses, description, conditions, and any evidence.
+
+---
 ## License
 
-- **Content**: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
-- **Data**: [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)
+Content: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)  
+Data: [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)  
 
 ---
-
-<div align="center">
-
-*Part of the [Wyrdness](https://github.com/wyrdness) Paranormal Archive*
-
-[Suggest Correction](../../issues/new?template=correction.yml) • [Full API](api.json)
-
-</div>
+_Auto-generated from `api.json`. Do not edit by hand — edit `api.json` and run `make repo-docs`._

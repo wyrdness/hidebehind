@@ -1,8 +1,8 @@
 {
   "meta": {
-    "version": "1.0.0",
+    "version": "1.1.0",
     "schema_version": "1.0.0",
-    "last_updated": "2026-02-13",
+    "last_updated": "2026-05-07",
     "repository": "https://github.com/wyrdness/hidebehind",
     "maintainers": [
       {
@@ -16,111 +16,199 @@
       "content": "CC-BY-4.0"
     }
   },
+
   "phenomenon": {
     "id": "hidebehind",
     "name": "Hidebehind",
-    "aliases": [],
+    "aliases": [
+      { "name": "Hide-behind", "region": "North American lumber camps" },
+      { "name": "Behinder", "region": "Appalachian variants" }
+    ],
     "category": "CRYPTID",
-    "subcategory": "Lumberjack Tall Tale",
+    "subcategory": "Fearsome critter (lumberjack folklore)",
     "tags": [
-      "folklore",
-      "mythology"
+      "fearsome-critter",
+      "lumberjack-folklore",
+      "north-america",
+      "tall-tale",
+      "occupational-folklore",
+      "forest-dwelling",
+      "elusive"
     ],
     "status": "documented",
     "description": {
-      "summary": "The Hidebehind is a fearsome critter from American lumberjack folklore, notable for being impossible to see directly.",
-      "full": "The Hidebehind is a fearsome critter from American lumberjack folklore, notable for being impossible to see directly. According to the tall tales, it always positions itself behind the nearest tree or object, perpetually staying out of view. When a lumberjack turns around, it instantly moves to stay behind them. This creature was used to explain the disappearances of lumberjacks who wandered into the woods alone and the paranoid feeling of being watched in the forest. It served as both entertainment for lumber camps and a cautionary tale for inexperienced workers (greenhorns) about the dangers of wandering off alone. The Hidebehind is a humorous tall tale, never intended to be taken seriously, representing the tradition of occupational folklore in dangerous professions."
+      "summary": "A fearsome critter from American lumberjack folklore that always hides behind the nearest object, making it impossible to observe directly; used to explain unexplained disappearances of loggers in the deep woods.",
+      "full": "The hidebehind is a creature from the 'fearsome critters' tradition of late-19th- and early-20th-century North American lumber camps. By definition impossible to see — the moment a person turns to look, the hidebehind darts behind the nearest tree, stump, or stone — it serves both as occupational humour and as a mock-folkloric explanation for loggers who walked into the woods alone and never came back. According to the published tales, the creature is nocturnal, preys on lumberjacks, subsists chiefly on the intestines of its victims, and has a strong aversion to alcohol, which is therefore considered an effective repellent. The story is documented most prominently in Henry H. Tryon's 1939 collection Fearsome Critters and in Walker D. Wyman's 1978 Mythical Creatures of the USA and Canada. The hidebehind belongs to a broader corpus of fearsome critters — including the agropelter, hodag, hugag, hoopsnake, splintercat, squonk, sidehill gouger, and wampus cat — invented or elaborated in lumber camps as initiation pranks for greenhorns and as set-pieces of campfire storytelling."
     },
     "etymology": {
-      "origin": "Unknown",
-      "meaning": "To be documented",
-      "first_use": "Unknown"
+      "origin": "American English, lumberjack camp slang of the late 19th to early 20th century, from the creature's defining behaviour of hiding behind objects.",
+      "meaning": "Literal compound: a thing that hides behind.",
+      "first_use": "Documented in lumberjack tall-tale traditions; appears in Henry H. Tryon's Fearsome Critters (1939)."
     }
   },
+
   "classification": {
     "taxonomy": {
       "category": "CRYPTID",
-      "type": "Lumberjack Tall Tale",
-      "subtype": "Unknown",
-      "variant": "Unknown"
+      "type": "Fearsome critter",
+      "subtype": "Elusive forest predator",
+      "variant": "North American lumber-camp tradition"
     },
-    "related_phenomena": []
+    "related_phenomena": [
+      { "id": "agropelter", "name": "Agropelter", "relationship": "similar", "description": "Fearsome critter that hurls branches at passing lumberjacks" },
+      { "id": "splintercat", "name": "Splintercat", "relationship": "similar", "description": "Fearsome critter said to shatter trees by ramming them" },
+      { "id": "wampus-cat", "name": "Wampus cat", "relationship": "similar", "description": "Elusive feline cryptid of Appalachian and lumber-camp folklore" },
+      { "id": "squonk", "name": "Squonk", "relationship": "similar", "description": "Self-pitying fearsome critter said to dissolve into tears when cornered" },
+      { "id": "hodag", "name": "Hodag", "relationship": "similar", "description": "Wisconsin fearsome critter associated with lumber-camp tall tales" }
+    ]
   },
+
   "characteristics": {
     "physical": {
-      "features": [],
-      "morphology": "See README.md for detailed physical description"
+      "coloration": ["unspecified, said to be invisible to direct observation"],
+      "features": [
+        { "feature": "Inability to be seen directly", "description": "Always positions itself behind the nearest tree, stump, rock, or other object; vanishes from view the instant a witness turns toward it", "frequency": "always" },
+        { "feature": "Nocturnal predator", "description": "Operates by night and is described as a stalker of solitary loggers", "frequency": "common" },
+        { "feature": "Aversion to alcohol", "description": "According to Tryon, alcohol is a sufficient repellent — a self-deprecating joke about lumberjack drinking habits", "frequency": "common" }
+      ],
+      "morphology": "Never described in detail because, by the rules of the tale, it cannot be observed. Some accounts describe a tall, gaunt, hairy biped; others leave the form unstated."
     },
-    "abilities": [],
+    "abilities": [
+      { "ability": "Perpetual concealment", "description": "Moves to remain behind any nearby object faster than the witness can turn", "frequency": "always", "evidence_level": "folklore" },
+      { "ability": "Stealth predation", "description": "Stalks lone lumberjacks and ambushes them, dragging them away to its lair", "frequency": "common", "evidence_level": "folklore" },
+      { "ability": "Selective diet", "description": "Said to eat chiefly the intestines of its victims", "frequency": "occasional", "evidence_level": "folklore" }
+    ],
     "behavior": {
-      "activity_period": "unknown",
-      "disposition": "unknown",
-      "habitat_preference": []
+      "activity_period": "nocturnal",
+      "disposition": "aggressive",
+      "social_structure": "solitary",
+      "habitat_preference": ["dense coniferous forest", "north American lumber camps", "deep woodland with abundant cover"],
+      "diet": "Reportedly carnivorous, with a particular fondness for the intestines of human victims (per Tryon, 1939).",
+      "patterns": [
+        "Targets solitary individuals away from camp",
+        "Operates after dark",
+        "Said to be deterred by alcohol on the breath of intended victims"
+      ]
     }
   },
+
   "distribution": {
     "range": {
-      "description": "Unknown",
-      "continents": [],
-      "countries": [],
-      "regions": []
+      "description": "Reported throughout the lumber-camp belt of North America: the upper Midwest (Michigan, Wisconsin, Minnesota), the Pacific Northwest, New England, and adjacent parts of Canada.",
+      "continents": ["North America"],
+      "countries": ["United States", "Canada"],
+      "regions": ["Upper Midwest", "Pacific Northwest", "New England", "Appalachian Mountains", "Boreal forest"]
     },
     "hotspots": [],
     "temporal": {
       "first_recorded": {
-        "date": "Unknown",
+        "date": "Late 19th century",
         "circa": true,
-        "source": "Traditional folklore"
-      }
+        "source": "Lumberjack oral tradition; first published collections in the early 20th century"
+      },
+      "peak_activity_periods": [
+        { "period": "1880s–1930s", "description": "Heyday of large North American lumber camps and of the fearsome-critter tradition" }
+      ],
+      "seasonal_patterns": "Stories cluster around the winter logging season, when crews lived in remote camps and exchanged tall tales around the stove."
     }
   },
+
   "history": {
     "origins": {
-      "cultural_roots": "Unknown",
-      "earliest_accounts": "See README.md for historical details",
-      "folklore_connections": "Unknown"
+      "cultural_roots": "Occupational folklore of North American lumber camps in the late 19th and early 20th centuries, drawing on Old World 'wild man' and forest-spirit traditions transplanted into the new logging frontier.",
+      "earliest_accounts": "Earliest accounts are oral and undated, embedded in lumber-camp storytelling traditions. The earliest sustained written treatment is Henry H. Tryon's Fearsome Critters (Idlewild Press, 1939).",
+      "folklore_connections": "Part of the 'fearsome critters' corpus alongside the hodag, hugag, agropelter, splintercat, squonk, sidehill gouger, hoopsnake, and wampus cat."
     },
-    "timeline": []
+    "timeline": [
+      { "date": "1939-01-01", "event": "Henry H. Tryon publishes Fearsome Critters (Idlewild Press, Cornwall, NY), with an entry on the hidebehind", "significance": "Establishes the modern canonical description of the creature", "source": "Tryon, H. H. (1939), Fearsome Critters" },
+      { "date": "1978-01-01", "event": "Walker D. Wyman publishes Mythical Creatures of the USA and Canada (University of Wisconsin – River Falls Press)", "significance": "Reintroduces the hidebehind to mid-20th-century academic folklore study", "source": "Wyman, W. D. (1978)" }
+    ],
+    "modern_era": "The hidebehind survives today primarily as a folklore curiosity in regional storytelling, internet-age cryptid lists, and tabletop games. It has no contemporary cryptozoological investigation tradition; folklorists treat it as a tall-tale figure rather than a candidate biological species."
   },
+
   "sightings": {
     "statistics": {
       "total_documented": 0,
       "verified": 0,
       "disputed": 0,
-      "debunked": 0
+      "debunked": 0,
+      "date_range": { "earliest": "Late 19th century (oral)", "latest": "20th century (printed)" }
     },
     "notable": [],
     "database_path": "./sightings/"
   },
+
   "evidence": {
     "physical": [],
     "photographic": [],
     "video": [],
     "audio": [],
-    "trace": []
+    "trace": [],
+    "documentary": [
+      {
+        "id": "hidebehind-evidence-tryon-1939",
+        "type": "book entry",
+        "name": "Tryon (1939) Fearsome Critters entry",
+        "date": "1939",
+        "description": "Print description of the hidebehind in Henry H. Tryon's Fearsome Critters, including its hiding behaviour, predation on lumberjacks, and aversion to alcohol.",
+        "status": "unverified",
+        "analysis": "A literary record of an oral tall-tale tradition, not an evidentiary claim about a biological creature.",
+        "source": "Tryon, H. H. (1939), Fearsome Critters"
+      }
+    ]
   },
+
   "theories": {
     "paranormal": [],
     "scientific": [],
-    "skeptical": []
+    "skeptical": [
+      {
+        "name": "Tall-tale and occupational folklore",
+        "description": "The hidebehind is a humorous occupational legend invented and elaborated in lumber camps to entertain workers, haze new recruits, and provide a mock explanation for genuine workplace deaths in the dangerous logging trade.",
+        "proponents": ["Henry H. Tryon", "Walker D. Wyman", "American folklore scholars"],
+        "evidence_cited": ["Embedment of the hidebehind in the larger fearsome-critter corpus", "The defining 'cannot be seen' rule, which is a literary joke rather than a description of a creature"]
+      }
+    ]
   },
+
   "cultural": {
     "folklore": {
-      "traditions": [],
-      "stories": [],
-      "beliefs": "See README.md for cultural context"
+      "traditions": [
+        "North American lumberjack tall-tale tradition",
+        "Fearsome critters corpus"
+      ],
+      "stories": [
+        "Tryon's account of the hidebehind devouring lone lumberjacks (1939)",
+        "Camp anecdotes of greenhorns sent to spot a hidebehind as a hazing prank"
+      ],
+      "beliefs": "Treated as humorous folklore rather than a sincere belief; the comedic premise is precisely that the creature's existence can never be confirmed."
     },
     "popular_culture": {
-      "literature": [],
+      "literature": [
+        "Fearsome Critters — Henry H. Tryon (1939)",
+        "Mythical Creatures of the USA and Canada — Walker D. Wyman (1978)"
+      ],
       "film_tv": [],
       "games": [],
-      "other": []
+      "music": [],
+      "other": [
+        "Recurring entry in modern cryptid bestiaries and online folklore compilations"
+      ]
     }
   },
+
   "research": {
-    "researchers": [],
+    "researchers": [
+      { "name": "Henry H. Tryon", "affiliation": "Idlewild Press", "contribution": "Compiled Fearsome Critters (1939), the canonical printed source for the hidebehind", "period": "1930s" },
+      { "name": "Walker D. Wyman", "affiliation": "University of Wisconsin – River Falls", "contribution": "Folklorist who collected and republished hidebehind tales in Mythical Creatures of the USA and Canada (1978)", "period": "1970s" }
+    ],
     "organizations": [],
-    "ongoing_studies": "None documented"
+    "ongoing_studies": "None; treated as documented folklore."
   },
-  "sources": []
+
+  "sources": [
+    { "id": "wikipedia-hidebehind-2026", "type": "website", "title": "Hidebehind", "publication": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Hidebehind", "accessed": "2026-05-07" },
+    { "id": "tryon-1939", "type": "book", "title": "Fearsome Critters", "authors": ["Henry H. Tryon"], "publication": "Idlewild Press, Cornwall, New York", "date": "1939" },
+    { "id": "wyman-1978", "type": "book", "title": "Mythical Creatures of the USA and Canada", "authors": ["Walker D. Wyman"], "publication": "University of Wisconsin – River Falls Press", "date": "1978" }
+  ]
 }
